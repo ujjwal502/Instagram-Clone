@@ -1,3 +1,5 @@
+This is a mobile app built with React Native
+
 | Feature | Assigned to | Deadline | Completed On |
 | ------- | ----------- | -------- | ------------ |
 |  Header bar and layout       |   Vamsi     |  16/08/2020        |    16/08/2020          |
